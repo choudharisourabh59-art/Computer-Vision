@@ -1,0 +1,5 @@
+opencv-contrib-python
+mediapipe
+numpy
+pandas
+pyttsx3
