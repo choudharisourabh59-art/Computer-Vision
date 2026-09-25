@@ -4,3 +4,4 @@ mediapipe
 numpy
 pandas
 pyttsx3
+cv2
